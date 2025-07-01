@@ -2,7 +2,7 @@
 
 - **Tên Dự Án**: Load Testing of `fakestoreapi.com/products`  
 - **Ngày Kiểm Thử**: 01/07/2025  
-- **Người Kiểm Thử**: Cao Văn Duy   
+- **Người Kiểm Thử**: Phan Đình Khải  
 
 ## 1. Mục Tiêu Kiểm Thử
 
